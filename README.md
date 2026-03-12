@@ -68,6 +68,15 @@ This repository contains the following documents:
 - Test Summary Report – Final testing results and statistics
 - Presentation – Project explanation and testing process
 
+𝗧𝗲𝘀𝘁 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
+
+The following metrics summarize the results of the manual testing process conducted on the OrangeHRM system:
+- Total Test Cases:  𝟯𝟲
+- Passed Test Cases: 𝟯𝟰
+- Failed Test Cases:  𝟮
+These metrics were generated after executing the defined test cases and documenting the results in the test summary report.
+
+
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗸𝘀
 
 Jira Board  
