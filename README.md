@@ -105,6 +105,11 @@ Bug Report Example
 Trello Testing Board
 ![Trello](screenshots/trello-testing-board.png.png)
 
+𝗦𝗮𝗺𝗽𝗹𝗲 𝗕𝘂𝗴 𝗥𝗲𝗽𝗼𝗿𝘁
+
+| Bug ID | Title | Module | Severity | Priority | Status |
+|------|------|------|------|------|------|
+| BUG-01 | Language dropdown does not save selected value | Languages | Medium | High | Open |
 
 𝗧𝗲𝗮𝗺 𝗠𝗲𝗺𝗯𝗲𝗿𝘀
 
