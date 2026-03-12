@@ -106,10 +106,11 @@ Trello Testing Board
 ![Trello](screenshots/trello-testing-board.png.png)
 
 𝗦𝗮𝗺𝗽𝗹𝗲 𝗕𝘂𝗴 𝗥𝗲𝗽𝗼𝗿𝘁
-
+During the testing process, two bugs were identified and documented in Jira.
 | Bug ID | Title | Module | Severity | Priority | Status |
 |------|------|------|------|------|------|
 | BUG-01 | Language dropdown does not save selected value | Languages | Medium | High | Open |
+| BUG-02 | Salary field accepts negative values | Salary | High | Medium | Reported |
 
 𝗧𝗲𝗮𝗺 𝗠𝗲𝗺𝗯𝗲𝗿𝘀
 
