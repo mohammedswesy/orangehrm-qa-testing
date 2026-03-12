@@ -79,7 +79,7 @@ https://trello.com/b/OKamKV2K/orangehrm-qa-testing
 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗘𝘃𝗶𝗱𝗲𝗻𝗰𝗲
 
 OrangeHRM Dashboard
-![Dashboard](screenshots/orangehrm-dashboard.png)
+![Dashboard](screenshots/orangehrm-dashboard.png.png)
 
 Language Module Testing
 ![Language Module](screenshots/orangehrm-language-module-test.png.png)
