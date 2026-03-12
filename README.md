@@ -82,19 +82,19 @@ OrangeHRM Dashboard
 ![Dashboard](screenshots/orangehrm-dashboard.png)
 
 Language Module Testing
-![Language Module](screenshots/orangehrm-language-module-test.png)
+![Language Module](screenshots/orangehrm-language-module-test.png.png)
 
 Jira Project Overview
-![Jira Overview](screenshots/jira-project-overview.png)
+![Jira Overview](screenshots/jira-project-overview.png.png)
 
 Jira Sprint Board
-![Jira Board](screenshots/jira-sprint-board.png)
+![Jira Board](screenshots/jira-sprint-board.png.png)
 
 Bug Report Example
-![Bug](screenshots/bug-report-example.png)
+![Bug](screenshots/bug-report-example.png.png)
 
 Trello Testing Board
-![Trello](screenshots/trello-testing-board.png)
+![Trello](screenshots/trello-testing-board.png.png)
 
 
 𝗧𝗲𝗮𝗺 𝗠𝗲𝗺𝗯𝗲𝗿𝘀
