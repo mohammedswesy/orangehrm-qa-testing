@@ -76,6 +76,27 @@ https://rawadisayed23.atlassian.net/jira/software/projects/OP/boards/67/backlog
 Trello Board  
 https://trello.com/b/OKamKV2K/orangehrm-qa-testing
 
+𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗘𝘃𝗶𝗱𝗲𝗻𝗰𝗲
+
+OrangeHRM Dashboard
+![Dashboard](screenshots/orangehrm-dashboard.png)
+
+Language Module Testing
+![Language Module](screenshots/orangehrm-language-module-test.png)
+
+Jira Project Overview
+![Jira Overview](screenshots/jira-project-overview.png)
+
+Jira Sprint Board
+![Jira Board](screenshots/jira-sprint-board.png)
+
+Bug Report Example
+![Bug](screenshots/bug-report-example.png)
+
+Trello Testing Board
+![Trello](screenshots/trello-testing-board.png)
+
+
 𝗧𝗲𝗮𝗺 𝗠𝗲𝗺𝗯𝗲𝗿𝘀
 
 - Rawad Isayed
@@ -86,3 +107,5 @@ https://trello.com/b/OKamKV2K/orangehrm-qa-testing
 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗣𝘂𝗿𝗽𝗼𝘀𝗲
 
 This repository serves as documentation for the QA testing process and results for the OrangeHRM system.
+
+
