@@ -3,7 +3,7 @@
 This repository contains a comprehensive Quality Assurance testing project conducted on the OrangeHRM system, covering both Manual Testing and Automation Testing practices. The project focuses on validating the functionality, usability, reliability, and workflow automation of core HR modules using modern QA methodologies and automation frameworks.
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
-The objective of this project is to perform manual testing on OrangeHRM and validate its core features through structured QA documentation including:
+The objective of this project is to perform both manual and automation testing on OrangeHRM and validate its core features through structured QA documentation and Selenium-based automation scripts.
 
 - Test Plan
 - Test Cases
