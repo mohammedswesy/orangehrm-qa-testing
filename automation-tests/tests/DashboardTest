@@ -1,0 +1,20 @@
+package com.testing;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import project1.LoginPage;
+
+public class DashboardTest extends BaseTest {
+
+    @Test
+    public void dashboardTitleTest() {
+
+        LoginPage loginPage = new LoginPage(driver);
+
+        loginPage.login("Admin", "admin123");
+
+        String title = driver.getTitle();
+
+        Assert.assertTrue(title.contains("OrangeHRM"));
+    }
+}
