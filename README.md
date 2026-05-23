@@ -1,7 +1,6 @@
 𝗢𝗿𝗮𝗻𝗴𝗲𝗛𝗥𝗠 𝗤𝗔 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
-This repository contains a Manual Quality Assurance testing project conducted on the OrangeHRM system.  
-The project focuses on verifying the functionality, usability, and reliability of the core HR modules in the system.
+This repository contains a comprehensive Quality Assurance testing project conducted on the OrangeHRM system, covering both Manual Testing and Automation Testing practices. The project focuses on validating the functionality, usability, reliability, and workflow automation of core HR modules using modern QA methodologies and automation frameworks.
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 The objective of this project is to perform manual testing on OrangeHRM and validate its core features through structured QA documentation including:
@@ -39,10 +38,12 @@ The following modules were not tested as they are not part of the free version u
 - Attendance
 - Advanced HR Analytics
 
-𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗧𝘆𝗽𝗲𝘀
+## Testing Types
+
 The following testing approaches were used:
 
 - Manual Testing
+- Automation Testing
 - Functional Testing
 - Black Box Testing
 - UI Testing
@@ -50,6 +51,22 @@ The following testing approaches were used:
 - Exploratory Testing
 - Regression Testing
 - Security Testing
+
+## Automation Testing
+
+Automation test scripts were developed using:
+
+- Selenium WebDriver
+- Java
+- TestNG
+- Page Object Model (POM)
+
+Automated scenarios include:
+
+- Login Validation
+- Dashboard Verification
+- Employee Management Workflows
+- Logout Functionality
 
 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱
 
@@ -59,6 +76,11 @@ The following testing approaches were used:
 - Excel / Google Sheets (Test Cases)
 - Browser Developer Tools
 - Screenshot Tools
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+
 
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗙𝗶𝗹𝗲𝘀
 
